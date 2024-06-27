@@ -1,4 +1,4 @@
-###Online Art Gallery
+<h1>Online Art Gallery</h1>
 
 <div id="pgc-576-0-0" class="panel-grid-cell" data-weight="1">
 <div id="panel-576-0-0-1" class="so-panel widget widget_sow-editor" data-index="1" data-style="{&quot;background_display&quot;:&quot;tile&quot;}">
